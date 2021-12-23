@@ -1,0 +1,30 @@
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\bin\Debug\net6.0\Lab 2.exe
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\bin\Debug\net6.0\Lab 2.deps.json
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\bin\Debug\net6.0\Lab 2.runtimeconfig.json
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\bin\Debug\net6.0\Lab 2.dll
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\bin\Debug\net6.0\ref\Lab 2.dll
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\bin\Debug\net6.0\Lab 2.pdb
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.AssemblyInfo.cs
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.dll
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\ref\Lab 2.dll
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.pdb
+C:\Users\Dima\Desktop\OP\sharp1\sharp1\obj\Debug\net6.0\Lab 2.genruntimeconfig.cache
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\bin\Debug\net6.0\Lab 2.exe
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\bin\Debug\net6.0\Lab 2.deps.json
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\bin\Debug\net6.0\Lab 2.runtimeconfig.json
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\bin\Debug\net6.0\Lab 2.dll
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\bin\Debug\net6.0\ref\Lab 2.dll
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\bin\Debug\net6.0\Lab 2.pdb
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.AssemblyInfo.cs
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.dll
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\ref\Lab 2.dll
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.pdb
+C:\Users\Dima\Desktop\OP\1 курс\sharp1\sharp1\obj\Debug\net6.0\Lab 2.genruntimeconfig.cache
